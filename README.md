@@ -11,5 +11,5 @@ Features:
 * User HUD showing current speed and altitude.
 * User map.
 * Collision detection.
-* Rain weather effects (experimental).
+* Fog and rain weather effects (experimental).
 * Rudimentary graphics settings.
